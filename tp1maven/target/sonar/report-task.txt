@@ -1,0 +1,6 @@
+projectKey=fr.istic.master1.sir:tp1maven
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/fr.istic.master1.sir:tp1maven
+ceTaskId=AW-A405oB4rSpLBy65DR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW-A405oB4rSpLBy65DR

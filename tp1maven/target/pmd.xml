@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd version="4.2.5" timestamp="2020-01-07T17:18:12.934">
+<file name="H:\workspace2020\tp1maven\src\main\java\fr\istic\master1\sir\tp1maven\JXBusyLabelTest.java">
+<violation beginline="7" endline="7" begincolumn="1" endcolumn="27" rule="UnusedImports" ruleset="Import Statement Rules" package="fr.istic.master1.sir.tp1maven" externalInfoUrl="http://pmd.sourceforge.net/rules/imports.html#UnusedImports" priority="4">
+Avoid unused imports such as 'java.awt.FlowLayout'
+</violation>
+</file>
+</pmd>

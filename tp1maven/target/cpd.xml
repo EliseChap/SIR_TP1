@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd-cpd>
+<duplication lines="13" tokens="108">
+<file line="57" path="H:\workspace2020\tp1maven\src\main\java\fr\istic\master1\sir\tp1maven\JXBusyLabelTest.java"/>
+<file line="69" path="H:\workspace2020\tp1maven\src\main\java\fr\istic\master1\sir\tp1maven\JXBusyLabelTest.java"/>
+<codefragment>
+<![CDATA[
+	public void codMort(ActionEvent e) {
+		if (e.getSource() == comboBackground) {
+			bLabel1.getBusyPainter().setBaseColor(colors[comboBackground.getSelectedIndex()-1]);
+		} else if (e.getSource() == comboForeground) {
+			bLabel1.getBusyPainter().setHighlightColor(colors[comboForeground.getSelectedIndex()-1]);
+		} else if (e.getSource() == btnStart) {
+			bLabel1.setBusy(true);
+		} else if (e.getSource() == btnStop) {
+			bLabel1.setBusy(false);
+		}
+	}
+	
+	public static void main(String[] args) {
+]]>
+</codefragment>
+</duplication>
+</pmd-cpd>
